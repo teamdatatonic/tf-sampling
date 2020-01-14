@@ -2,6 +2,10 @@
 
 > *Effective sampling methods within TensorFlow input functions.*
 
+**Authors:**
+* William Fletcher
+* Laxmi Prajapat
+
 ## Table of Contents
 * [About the Project](#about-the-project)
 	* [Built With](#built-with)
